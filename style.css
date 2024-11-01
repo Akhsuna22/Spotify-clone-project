@@ -47,3 +47,19 @@ body{
 .heading img{
     width: 30px;
 }
+
+.library{
+    min-height: 50vh;
+}
+
+.footer{
+    display: flex;
+    font-size: 10px;
+    color: grey;
+    gap: 13px;
+}
+
+.footer a{
+    color: grey;
+}
+
