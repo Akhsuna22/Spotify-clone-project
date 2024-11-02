@@ -66,3 +66,8 @@ body{
     color: grey;
 }
 
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
